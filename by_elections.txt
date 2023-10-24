@@ -1,0 +1,505 @@
+Date Constituency Result CON LAB LD PC/SNP Other Turnout
+GENERAL ELECTION 1945
+01/10/1945 Smethwick LAB hold -2.9% +2.9% … … … 65.4%
+02/10/1945 Ashton-under-Lyme LAB hold -8.6% -2.3% +10.9% … … 70.5%
+03/10/1945 Edinburgh E LAB hold +1.1% +5.2% … -6.3% … 51.0%
+30/10/1945 Monmouth CON hold +0.8% -0.8% … … … 66.7%
+31/10/1945 City of London1,2 CON gain -3.8% ... +14.0% ... -10.2% 51.6%
+14/11/1945 Bromley CON hold +4.6% +5.0% -9.6% … … 56.5%
+15/11/1945 Bournemouth CON hold -8.7% +12.0% -3.3% … … 56.5%
+20/11/1945 Kensington South CON hold +11.9% +7.0% +18.9% … … 36.8%
+13/12/1945 Tottenham North LAB hold +8.2% -8.2% … … … 39.5%
+31/01/1946 Preston1 LAB gain +2.6% ... -6.1% ... -3.8% 64.9%
+07/02/1946 Ayrshire South LAB hold -2.3% +2.3% … … … 69.0%
+12/02/1946 Glasgow, Cathcart CON hold -6.3% -4.1% … +10.4% … 55.6%
+21/01/1946 Heywood and Radcliffe LAB hold +0.5% -0.5% … … … 75.6%
+04/06/1946 Ogmore LAB hold -18.0% -5.8% … +23.8% … 33.1%
+22/07/1946 Bexley LAB hold +17.7% -4.4% -13.3% … … 61.2%
+23/07/1946 Pontypool LAB hold +4.1% -4.1% … … … 64.8%
+25/07/1946 Battersea North LAB hold +3.5% -5.0% … … +1.5% 55.4%
+29/08/1946 Glasgow, Bridegton ILP hold -12.0% +28.0% … … -16.0% 53.3%
+19/11/1946 Bermondsey, Rotherhithe LAB hold -11.2% -14.1% +25.3% … … 50.9%
+20/11/1946 Paddington North LAB hold +6.1% -5.6% … … -0.5% 53.9%
+26/11/1946 Aberdeen South CON hold +8.0% +2.9% -10.9% … … 65.6%
+05/12/1946 Aberdare LAB hold -4.0% -16.0% … +20.0% … 65.7%
+05/12/1946 Kilmarnock LAB hold -8.1% +0.3% … +7.8% … 68.4%
+11/02/1947 Normanton LAB hold +2.1% -4.5% … … +2.4% 54.6%
+07/05/1947 Jarrow LAB hold +3.5% -6.7% … … +3.2% 73.4%
+11/09/1947 Liverpool, Edge Hill LAB hold +7.5% -12.8% +4.4% … +0.9% 62.7%
+25/09/1947 Islington West LAB hold +0.4% -16.6% +16.0% … +0.2% 51.4%
+26/11/1947 Gravesend LAB hold +12.9% -0.7% -12.2% … … 77.3%
+27/11/1947 Howdenshire CON hold +8.0% -3.7% -4.3% … … 67.0%
+27/11/1947 Edinburgh East LAB hold -3.0% -5.8% +10.1% -1.3% … 63.0%
+04/12/1947 Epsom CON hold +11.0% -6.3% -4.7% … … 70.5%
+28/01/1948 Glasgow, Camlachie CON gain from ILP +1.4% +42.1% +1.2% … -44.7% 56.8%
+18/02/1948 Paisley LAB hold +10.5% +1.2% -10.0% … -1.7% 76.0%
+04/03/1948 Wigan LAB hold +3.9% -9.2% … … +1.9% 81.4%
+11/03/1948 Croydon North CON hold +12.9% -3.5% -9.4% … … 74.8%
+24/03/1948 Brigg LAB hold +4.3% -4.3% … … … 77.1%
+29/04/1948 Southwark Central LAB hold +6.5% -6.5% … … … 48.7%
+30/09/1948 Glasgow, Gorbals LAB hold +8.6% -25.5% … … +16.9% 50.0%
+07/10/1948 Stirling and Falkirk LAB hold -1.1% -7.1% … +8.2% … 72.9%
+GENERAL ELECTION 1948
+13/11/1948 Edmonton LAB hold +17.6% -14.8% … … -2.8% 62.7%
+25/11/1948 Glasgow, Hillhead CON hold +9.9% -2.0% -7.9% … … 56.7%
+17/02/1949 Batley and Morley LAB hold +12.3% +1.2% -13.5% … … 81.3%
+24/02/1949 Hammersmith South LAB hold +5.2% -5.2% … … … 60.6%
+10/03/1949 St.Pancras North LAB hold +4.8% -6.3% … … +1.5% 65.1%
+16/03/1949 Sowerby LAB hold +16.0% +2.3% -18.3% … … 80.7%
+21/07/1949 Leeds West LAB hold +17.2% -3.9% -13.3% … … 65.1%
+08/12/1949 Bradford South LAB hold +9.3% -1.2% -14.4% … +6.3% 75.4%
+GENERAL ELECTION 1950
+05/04/1950 Sheffield, Neepsend LAB hold -0.4% -1.9% … … +2.3% 62.9%
+25/04/1950 Dunbartonshire West LAB hold +1.8% +1.1% … … -2.9% 83.4%
+04/05/1950 Brighouse and Spenborough LAB hold +1.7% -1.7% … … … 85.4%
+28/09/1950 Leicester NE LAB hold +8.8% +1.4% -9.5% … -0.7% 63.0%
+25/10/1950 Glasgow, Scotstoun CON hold +4.3% +1.3% -4.9% … -0.7% 73.7%
+02/11/1950 Oxford CON hold +10.6% +1.8% -11.6% … -0.8% 69.3%
+16/11/1950 Bimingham, Handsworth CON hold +10.2% -1.1% -10.3% … +1.2% 63.2%
+30/11/1950 Bristol SE LAB hold +8.4% -5.9% -1.4% … -1.1% 61.1%
+30/11/1950 Abertillery LAB hold +0.6% -0.6% … … … 71.1%
+15/02/1951 Bristol West CON hold +22.5% -11.4% -11.1% … … 53.6%
+08/04/1951 Ormskirk CON hold +5.2% -7.2% … … +2.0% 64.7%
+21/04/1951 Harrow West CON hold +13.4% -1.5% -11.9% … … 68.0%
+14/06/1951 Woolwich East LAB hold +6.3% -0.8% -3.5% … -2.0% 66.8%
+21/06/1951 Westhoughton LAB hold +1.9% -1.9% … … … 76.5%
+GENERAL ELECTION 1951
+06/02/1952 Bournemouth East and Christchurch CON hold -1.5% -1.7% -1.5% … +4.7% 63.8%
+06/02/1952 Southport CON hold +1.8% +3.7% -5.5% … … 61.0%
+07/02/1952 Leeds SE LAB hold -2.7% +2.7% … … … 55.7%
+17/07/1952 Dundee East LAB hold -10.6% +2.5% … +7.4% +0.7% 55.7%
+23/10/1952 Cleveland LAB hold +0.7% -0.7% … … … 71.4%
+04/11/1952 Wycombe CON hold +0.3% -0.3% … … … 83.9%
+27/11/1952 Birmingham, Small Heath LAB hold +2.1% +3.6% -5.7% … … 46.6%
+27/11/1952 Farnworth LAB hold -0.7% +0.7% … … … 71.0%
+12/02/1953 Canterbury CON hold +6.0% +1.9% -7.9% … … 49.2%
+12/03/1953 Isle of Thanet CON hold -0.3% +0.3% … … … 58.7%
+31/03/1953 Barnsley LAB hold +9.8% +3.2% -13.0% … … 57.9%
+31/03/1953 Stoke-on-Trent North LAB hold -4.1% +4.1% … … … 50.5%
+01/04/1953 Hayes and Harlington LAB hold +0.9% -0.9% … … … 45.0%
+13/05/1953 Sunderland South CON gain from LAB -1.1% -4.2% +5.3% … … 72.7%
+30/06/1953 Abingdon CON hold -2.3% -4.8% +7.1% … … 75.9%
+02/07/1953 Birmingham, Edgbaston CON hold +3.3% -3.3% … … … 50.2%
+17/09/1953 Broxtowe LAB hold -1.4% +1.4% … … … 63.5%
+12/11/1953 Crosby CON hold -2.8% +1.5% … … +4.3% 62.5%
+12/11/1953 Ormskirk CON hold -2.0% +2.0% … … … 54.1%
+19/11/1953 Holborn and St.Pancras S LAB hold -0.2% +1.9% -1.7% … … 56.2%
+03/12/1953 Paddington North LAB hold +1.0% -1.9% … … +0.9% 60.3%
+03/02/1954 Ilford North CON hold +4.3% -5.7% +1.4% … … 45.4%
+11/02/1954 Kingston upon Hull, Haltemprice CON hold +3.7% -3.7% … … … 45.7%
+11/02/1954 Harwich CON hold +0.2% -0.2% … … … 58.8%
+18/02/1954 Bournemouth West CON hold +4.2% -4.2% … … … 45.1%
+09/03/1954 Arundel and Shoreham CON hold +1.1% -1.1% … … … 54.2%
+11/03/1954 Harrogate CON hold +0.2% -0.2% … … … 55.3%
+08/04/1954 Edinburgh East LAB hold -3.5% +3.5% … … … 61.8%
+14/04/1954 Motherwell LAB hold -3.4% -0.9% … … +4.3% 70.5%
+30/09/1954 Croydon East CON hold -2.2% -5.8% +8.0% … … 57.5%
+21/10/1954 Shoreditch and Finsbury LAB hold -5.6% +5.6% … … … 40.7%
+21/10/1954 Wakefield LAB hold +0.2% -0.2% … … … 68.6%
+28/10/1954 Aldershot CON hold -0.2% +0.2% … … … 58.7%
+28/10/1954 Aberdare LAB hold -0.9% -9.0% … +9.9% … 69.7%
+04/11/1954 Sutton And Cheam CON hold +3.7% -3.7% … … … 55.6%
+04/11/1954 Morpeth LAB hold +0.6% -0.6% … … … 73.0%
+18/11/1954 Liverpool, West Derby CON hold +1.6% -1.6% … … … 58.9%
+21/12/1954 Inverness CON hold -23.1% +36.0% -12.9% … … 49.2%
+13/01/1955 Norfolk South CON hold -3.0% +3.0% … … … 66.6%
+20/01/1955 Orpington CON hold +3.1% -3.1% … … … 55.4%
+25/01/1955 Twickenham CON hold +1.9% -1.9% … … … 47.3%
+27/01/1955 Edinburgh North CON hold +0.6% -0.6% … … … 46.4%
+03/02/1955 Stockport South CON hold +0.1% -0.1% … … … 64.6%
+17/03/1955 Wrexham LAB hold -4.0% -3.7% … +7.7% … 62.4%
+GENERAL ELECTION 1955
+07/12/1955 Gateshead West LAB hold -1.2% +1.2% … … … 42.3%
+08/12/1955 Greenock LAB hold -2.3% +2.3% … … … 75.3%
+15/12/1955 Torquay CON hold -9.4% -0.2% +9.6% … … 62.6%
+02/02/1956 Blaydon LAB hold -3.4% +3.4% … … … 56.5%
+09/02/1956 Leeds NE CON hold +1.8% -1.8% … … … 39.9%
+14/02/1956 Hereford CON hold -7.5% +11.6% -4.1% … … 61.5%
+14/02/1956 Gainsborough CON hold -15.0% -6.6% +21.6% … … 61.9%
+14/02/1956 Taunton CON hold -1.9% +9.7% -8.4% … … 75.0%
+01/03/1956 Walthamstow West LAB hold -14.1% -1.0% +14.7% … … 52.0%
+07/06/1956 Tonbridge CON hold -8.4% +8.4% … … … 60.6%
+06/07/1956 Newport(Mon.) LAB hold -6.4% +2.6% +3.8% … … 72.1%
+27/09/1956 Cheter-le-Street LAB hold -4.5% +4.5% … … … 64.9%
+15/11/1956 City of Chester CON hold -5.0% +4.6% +0.4% … … 71.5%
+19/12/1956 Melton CON hold -7.6% +7.6% … … … 56.5%
+14/02/1957 Lewisham North LAB gain from CON -7.5% +3.5% … … +4.0% 70.8%
+28/02/1957 Wednesbury LAB hold -11.6% +1.7% … … +9.9% 60.0%
+28/02/1957 Carmathen LAB gain from Lib … +4.6% -8.3% +3.7% … 87.5%
+07/03/1957 Bristol West CON hold -5.1% +5.1% … … … 61.1%
+07/03/1957 Warwick and Lemington CON hold -12.2% +12.2% … … … 77.9%
+21/03/1957 Beckenham CON hold -6.1% +6.1% … … … 64.7%
+21/03/1957 Newcastle upon Tyne CON hold -3.6% +3.6% … … … 64.1%
+29/05/1957 Edinburgh South CON hold -21.9% -1.6% +23.5% … … 65.8%
+30/05/1957 East Ham North LAB hold -11.5% -2.8% … … +14.3% 57.3%
+30/05/1957 Hornsey CON hold -6.7% +9.3% … … -2.6% 63.0%
+27/06/1957 Dorset North CON hold -7.0% +2.8% +3.7% … +0.5% 75.8%
+12/09/1957 Gloucester LAB hold -20.5% +0.4% +20.1% … … 71.0%
+24/10/1957 Ipswich LAB hold -14.4% -7.1% +21.5% … … 75.6%
+28/11/1957 Leicester SE CON hold -3.2% +3.2% … … … 56.4%
+05/12/1957 Liverpool, Garston CON gain from Ind CON -14.3% -0.9% +15.2% … … 49.7%
+12/02/1958 Rochdale LAB gain from CON -31.7% -3.8% +35.5% … … 80.2%
+13/03/1958 Glasgow, Kelvingrove LAB gain from CON -13.8% +3.4% … … +10.4% 60.5%
+27/03/1958 Torrington Lib gain from CON -27.7% -10.3% +38.0% … … 80.6%
+15/05/1958 Islington North LAB hold -10.4% +7.4% … … +3.0% 35.6%
+12/06/1958 Ealing South CON gain from Ind CON -9.2% +1.6% +7.6% … … 64.5%
+12/06/1958 St.Helens LAB hold -0.4% +0.4% … … … 54.6%
+12/06/1958 Wigan LAB hold -5.7% +6.6% … … -0.9% 70.3%
+12/06/1958 Weston-super-Mare CON hold -13.4% -11.1% +24.5% … … 72.2%
+12/06/1958 Argyll CON hold -20.8% -6.7% +27.5% … … 67.1%
+06/11/1958 Morecambe and Lonsdale CON hold -5.9% +5.9% … … … 63.8%
+06/11/1958 Chichester CON hold +0.1% -0.1% … … … 51.7%
+10/11/1958 Pontypool LAB hold -5.6% -4.4% … +10.0% … 61.7%
+20/11/1958 Aberdeenshire East CON hold -19.9% -4.4% +24.3% … … 65.9%
+27/11/1958 Shoreditch and Finsbury LAB hold -2.5% +2.5% … … … 24.9%
+29/01/1959 Southend West CON hold -8.6% -0.6% +9.2% … … 42.9%
+19/03/1959 Harrow East CON hold -1.6% +0.6% … … +1.0% 68.9%
+25/03/1959 Norfolk SW LAB hold +0.7% -3.3% … … +2.6% 75.2%
+09/04/1958 Galloway CON hold -16.5% -9.2% +25.7% … … 72.7%
+11/06/1959 Penistone LAB hold -1.8% +1.8% … … … 65.0%
+18/06/1959 Whitehaven LAB hold -0.6% +0.6% … … … 79.2%
+GENERAL ELECTION 1959
+17/03/1960 Brighouse and Spenborough CON gain from LAB +0.9% -0.9% … … … 82.4%
+17/03/1960 Harrow West CON hold -15.2% -10.9% +21.4% … +4.7% 61.6%
+19/05/1960 Edinburgh North CON hold -9.8% -5.7% +15.5% … … 53.8%
+16/11/1960 Bolton East CON hold -15.0% -11.0% +24.8% … +1.2% 68.2%
+16/11/1960 Bedfordshire Mid CON hold -1.4% -6.2% +7.0% … +0.6% 71.1%
+16/11/1960 Tiverton CON hold -9.9% -7.6% +17.5% … … 68.4%
+16/11/1960 Petersfield CON hold -6.5% -4.7% +11.2% … … 53.6%
+16/11/1960 Ludlow CON hold -13.9% -13.4% +27.3% … … 63.6%
+16/11/1960 Carshalton CON hold -2.3% -9.8% +12.1% … … 54.2%
+17/11/1960 Ebbw Vale LAB hold -6.3% -12.2% +11.5% +7.0% … 76.1%
+24/11/1960 Blyth LAB hold -3.8% -5.7% +9.5% … … 54.1%
+16/03/1961 Worcester CON hold -18.0% -12.1% +30.1% … … 64.2%
+16/03/1961 Cambridgeshire CON hold -12.0% -12.0% +24.0% … … 62.4%
+16/03/1961 High Peak CON hold -8.6% -1.9% +10.5% … … 72.5%
+16/03/1961 Colchester CON hold -4.4% -2.8% +7.2% … … 64.9%
+23/03/1961 Brimingham, Small Heath LAB hold -13.8% +1.8% +12.0% … … 42.6%
+20/04/1961 Warrington LAB hold -12.1% -0.4% +12.5% … … 56.7%
+20/04/1961 Paisley LAB hold -29.5% -11.9% +41.4% … … 68.1%
+04/05/1961 Bristol SE LAB hold -13.3% +13.3% … … … 56.7%
+07/11/1961 Manchester, Moss Side CON hold -21.1% -11.9% +27.8% … +5.2% 46.7%
+08/11/1961 Oswestry CON hold -15.1% +0.0% +12.3% … +2.8% 60.8%
+08/11/1961 Fife East CON hold -22.4% -3.7% +26.1% … … 67.3%
+16/11/1961 Glasgow, Bridgeton LAB hold -15.9% -5.9% … +18.7% +3.1% 41.9%
+08/03/1962 Lincoln LAB hold -14.7% -4.6% +18.2% … +1.1% 75.0%
+13/03/1962 Blackpool North CON hold -19.5% +4.8% +14.7% … … 55.2%
+14/03/1962 Middlesbrough LAB hold -23.7% -1.0% +22.9% … +1.8% 52.2%
+14/03/1962 Orpington Lib gain from CON -21.9% -9.8% +31.7% … … 80.3%
+22/03/1962 Pontefract LAB hold -4.2% +0.9% … … +3.3% 63.3%
+05/04/1962 Stockton-on-Tees LAB hold -18.5% -8.4% +26.9% … … 81.5%
+17/04/1962 Derby North LAB hold -24.7% -3.4% +25.4% … +2.7% 60.5%
+15/05/1962 Montgomeryshire Lib hold -9.4% -6.0% +9.2% +6.2% … 85.1%
+06/06/1962 Middlesbrough West LAB gain from CON -21.2% +4.3% +16.1% … +0.8% 72.2%
+06/06/1962 Debyshire West CON hold -25.2% -11.4% +32.5% … +4.1% 79.4%
+14/06/1962 West Lothian LAB hold -28.3% -9.4% +10.8% +23.3% +3.6% 71.1%
+12/07/1962 Leicester NE LAB hold -23.9% -10.4% +34.3% … … 60.8%
+22/11/1962 Dorset South LAB gain from CON -18.0% -1.2% +6.2% … +13.0% 70.2%
+22/11/1962 Norfolk Central CON hold -12.6% +2.2% +7.6% … +2.8% 60.2%
+22/11/1962 Northamptonshire South CON hold -15.8% -4.4% +19.3% … +0.9% 69.0%
+22/11/1962 Chippenham CON hold -15.2% -1.9% +15.6% … +1.5% 68.0%
+22/11/1962 Glasgow, Woodside LAB gain from CON -19.1% -7.0% +14.0% +11.1% +1.0% 54.7%
+21/03/1963 Colne Valley LAB hold -14.5% +0.1% +13.7% … +0.7% 78.9%
+28/03/1963 Rotherham LAB hold -8.8% +6.5% … … +2.3% 56.3%
+28/03/1963 Swansea East LAB hold -14.7% -6.3% +15.8% -5.3% +10.5% 55.9%
+20/06/1963 Leeds South LAB hold -10.9% +4.4% +4.3% … +2.2% 60.5%
+04/07/1963 Deptford LAB hold -18.9% -3.6% +22.5% … … 44.1%
+04/07/1963 West Bromwich LAB hold -19.0% +1.4% +17.6% … … 55.2%
+15/08/1963 Stratford CON hold -25.0% +2.6% +21.0% … +1.4% 69.4%
+20/08/1963 Bristol SE LAB hold -43.8% +23.5% … … +20.3% 42.2%
+07/11/1963 Luton LAB gain from CON -15.6% +3.1% +11.4% … +1.1% 74.0%
+07/11/1963 Kinross-shire and Perthshire West CON hold -10.8% -1.6% +19.5% -7.7% +0.6% 76.1%
+21/11/1963 Dundee West LAB hold -8.9% +1.0% … +7.4% +0.5% 71.6%
+05/12/1963 St.Marylebone CON hold -9.6% +8.2% +1.4% … … 44.2%
+05/12/1963 Manchester, Openshaw LAB hold -10.6% +5.7% … … +4.9% 46.1%
+05/12/1963 Sudbury and Woodbridge CON hold -3.4% +4.0% -0.6% … … 70.5%
+12/12/1963 Dunfriesshire CON hold -17.5% -3.1% +10.9% +9.7% … 71.6%
+14/05/1964 Winchester CON hold -15.1% +1.9% +13.2% … … 68.7%
+14/05/1964 Bury St.Edmunds CON hold -9.7% +2.2% +7.5% … … 74.6%
+14/05/1964 Devizes CON hold -4.6% +1.0% +10.3% … -6.7% 75.8%
+14/05/1964 Rutherglen LAB gain from CON -7.6% +7.6% … … … 82.0%
+04/06/1964 Faversham LAB hold +5.6% +4.8% … … +0.8% 74.8%
+11/06/1964 Liverpool, Scotland LAB hold -12.5% +12.5% … … … 42.0%
+GENERAL ELECTION 1964
+21/01/1965 Leyton CON gain from LAB +9.3% -7.9% -2.2% … +0.8% 57.7%
+21/01/1965 Nuneaton LAB hold +5.8% -3.8% -2.0% … … 60.8%
+04/02/1965 Altrinham and Sale CON hold +3.2% +1.0% +5.8% … +1.6% 62.0%
+04/02/1965 East Grinstead CON hold +1.8% -6.3% +4.5% … … 64.5%
+04/02/1965 Salisbury CON hold -0.1% +3.0% -4.4% … +1.5% 69.1%
+23/03/1965 Saffron Walden CON hold -0.8% +2.1% -1.3% … … 76.1%
+24/03/1965 Roxburghshire, Selkirkshire and Peeblesshire Lib gain from CON -4.2% -4.5% +10.3% -2.5% +0.9% 82.2%
+01/04/1965 Abertillery LAB hold +0.2% -6.9% … +6.7% … 63.2%
+06/05/1965 Birmingham, Hall Green CON hold +2.2% -3.0% +0.8% … … 52.4%
+22/07/1965 Hove CON hold -6.2% -11.0% +16.9% … +0.3% 58.5%
+04/11/1965 Cities of London and Westminster CON hold +1.2% +2.3% -4.8% … … 41.8%
+11/11/1965 Erith and Crayford LAB hold +4.9% +2.3% -7.2% … … 72.0%
+27/01/1966 Kingston upon Hull North LAB hold +0.0% +8.9% -9.6% … +0.7% 76.3%
+GENERAL ELECTION 1966
+14/07/1966 Carmarthen PC gain from LAB -4.5% -13.1% -5.3% +22.9% … 74.9%
+09/03/1967 Nuneaton LAB hold +1.1% -11.8% +3.1% … +7.6% 66.1%
+09/03/1967 Rhondda West LAB hold -3.5% -27.1% … +31.2% -0.6% 82.2%
+09/03/1967 Glasgow, Pollok CON gain from LAB -10.7% -21.2% +1.9% +28.2% +1.8% 75.7%
+16/03/1967 Honiton CON hold +2.5% -6.3% +3.8% … … 72.6%
+27/04/1967 Brierley Hill CON hold +2.6% -12.6% +7.8% … +2.2% 68.0%
+21/09/1967 Cambridge CON gain from LAB +8.2% -8.9% +1.6% … -0.9% 65.7%
+21/09/1967 Walthamstow West CON gain from LAB +12.2% -24.4% +8.8% … +3.4% 54.0%
+02/11/1967 Leicester SW CON gain from LAB +10.3% -22.8% +12.5% … … 57.5%
+02/11/1967 Manchester, Gorton LAB hold +4.6% -14.2% +5.9% … +3.7% 72.4%
+02/11/1967 Hamilton SNP gain from LAB -16.3% -29.7% … +46.0% … 73.7%
+23/11/1967 Derbyshire West CON hold +7.0% -18.8% +6.6% … +5.2% 64.5%
+14/03/1968 Kensington South CON hold +10.3% -11.2% -2.5% … +3.4% 40.0%
+28/03/1968 Acton CON gain from LAB +6.3% -23.8% +11.4% … +6.1% 59.7%
+28/03/1968 Dudley CON gain from LAB +17.2% -25.1% +7.9% … … 63.5%
+28/03/1968 Meriden CON gain from LAB +18.4% -18.4% … … … 66.0%
+28/03/1968 Warwick and Leamington CON hold +16.7% -19.6% +2.9% … … 58.5%
+13/06/1968 Oldham West CON gain from LAB +7.7% -27.6% +6.7% … +13.2% 54.7%
+13/06/1968 Sheffield Brightside LAB hold +13.5% -20.8% … … +7.3% 49.8%
+27/06/1968 Nelson and Colne CON gain from LAB +11.9% -10.9% +9.0% … -10.0% 74.2%
+18/07/1968 Caerphilly LAB hold -4.2% -28.7% +3.6% +29.3% … 75.9%
+31/10/1968 Bassetlaw LAB hold +9.5% -11.9% … … +2.4% 68.0%
+07/11/1968 New Forest CON hold +15.1% -12.9% -2.2% … … 55.9%
+27/03/1969 Brighton, Pavilion CON hold +12.5% -23.3% +10.8% … … 45.1%
+27/03/1969 Walthamstow East CON gain from LAB +20.8% -11.0% -9.8% … … 51.2%
+27/03/1969 Weston-super-Mare CON hold +13.6% -14.2% +0.6% … … 60.8%
+22/05/1969 Chichester CON hold +17.0% -12.9% -4.1% … … 53.4%
+26/06/1969 Birmingham, Ladywood Lib gain from LAB -0.6% -33.4% +30.6% … +3.4% 51.9%
+30/10/1969 Islington North LAB hold +8.2% -10.2% +0.3% … +1.7% 32.8%
+30/10/1969 Paddington North LAB hold +16.0% -6.7% -9.3% … … 46.3%
+30/10/1969 Newcastle-under-Lyme LAB hold +5.7% -15.7% +6.4% … +3.6% 72.3%
+30/10/1969 Swindon CON gain from LAB +5.1% -20.8% +15.3% … +0.4% 69.8%
+30/10/1969 Glasgow, Gorbals LAB hold -4.2% -19.7% … +25.0% -1.1% 58.5%
+04/12/1969 Louth CON hold +11.6% -17.0% +1.0% … +4.4% 44.7%
+04/12/1969 Wellingborough CON gain from LAB +6.8% -12.6% … … +5.8% 69.6%
+12/03/1970 Bridgwater CON hold +11.1% -6.2% -4.9% … … 70.3%
+19/03/1970 Ayrshire South LAB hold -7.2% -13.2% … +20.4% … 76.3%
+GENERAL ELECTION 1970
+22/10/1970 St.Marylebone CON hold +1.3% -2.3% -2.4% … +3.4% 35.3%
+19/11/1970 Enfield West CON hold -0.6% -0.2% -0.5% … +1.3% 49.9%
+01/04/1971 Liverpool, Scotland LAB hold -6.8% -3.5% … … +10.3% 37.7%
+01/04/1971 Arundel and Shoreham CON hold +3.3% -2.0% -1.6% … +0.3% 53.1%
+27/05/1971 Southampton, Itchen LAB hold +31.6% -11.8% +5.4% … -25.2% 50.1%
+27/05/1971 Bromsgrove LAB gain from CON -10.1% +10.1% … … … 67.0%
+27/05/1971 Goole LAB hold -8.7% +8.7% … … … 55.6%
+17/06/1971 Hayes and Harlington LAB hold -15.9% +17.0% … … -1.1% 42.3%
+08/07/1971 Greenwich LAB hold -8.3% +9.4% -6.4% … +5.3% 39.2%
+16/09/1971 Stirling and Falkirk LAB hold -15.9% -4.2% … +20.1% … 60.0%
+23/09/1971 Widnes LAB hold -11.4% +11.4% … … … 45.4%
+30/09/1971 Macclesfield CON hold -7.4% +9.4% -3.9% … +1.9% 75.8%
+13/04/1972 Merthyr Tydfil LAB gain from Ind LAB -2.4% +19.8% +2.4% +27.4% -47.2% 79.5%
+04/05/1972 Southwark LAB gain from Ind LAB -10.1% +12.0% … … -1.9% 32.1%
+04/05/1972 Kingston upon Thames CON hold -4.3% -0.7% -0.4% … +5.4% 53.6%
+26/10/1972 Rochdale Lib gain from LAB -10.3% -10.5% +11.9% … +8.9% 69.1%
+07/12/1972 Sutton and Cheam Lib gain from CON -26.2% -18.6% +39.0% … +5.8% 56.3%
+07/12/1972 Uxbridge CON hold -9.4% -5.1% +1.3% … +13.2% 54.3%
+01/03/1973 Lincoln Dem LAB gain from LAB -21.5% -27.7% … … +49.2% 72.6%
+01/03/1973 Chester-le-Street LAB hold -20.0% -18.6% +38.6% … … 72.3%
+01/03/1973 Dundee East LAB hold -17.2% -15.6% +8.3% +21.3% +3.2% 70.6%
+24/05/1973 West Bromwich LAB hold -19.4% -2.0% … … +21.4% 43.6%
+24/05/1973 Westhoughton LAB hold -2.3% +1.6% … … +0.7% 63.4%
+27/06/1973 Manchester, Exchange LAB hold -20.7% -13.2% +36.5% … -2.6% 43.7%
+26/07/1973 Isle of Ely Lib gain from CON -24.9% -13.4% +38.3% … … 65.8%
+26/07/1973 Ripon Lib gain from CON -20.2% -12.3% +30.4% … +2.1% 64.3%
+08/11/1973 Hove CON hold -20.9% -19.7% +37.3% … +3.3% 62.4%
+08/11/1973 Berwick-upon-Tweed Lib gain from CON -11.0% -7.6% +18.0% … +0.6% 75.0%
+08/11/1973 Edinburgh North CON hold -14.1% -13.1% +8.3% +18.9% … 54.4%
+08/11/1973 Glasgow, Govan SNP gain from LAB -16.5% -21.8% +8.2% +31.6% -1.5% 51.7%
+GENERAL ELECTION 1974F
+23/05/1974 Newham South LAB hold -1.1% -3.4% -2.3% … +6.8% 25.9%
+GENERAL ELECTION 1974O
+26/06/1975 Greenwich, Woolwich West CON gain from LAB +10.2% -5.0% -9.0% … +3.8% 62.3%
+04/03/1976 Coventry NW LAB hold +5.8% -4.2% -4.4% … +2.8% 72.9%
+11/03/1976 Sutton, Carshalton CON hold +6.3% -10.4% -1.7% … +5.8% 60.5%
+11/03/1976 Wirral CON hold +16.0% -11.3% -6.2% … +1.5% 55.5%
+24/06/1976 Rotherham LAB hold +12.6% -13.9% -5.5% … +6.8% 46.8%
+15/07/1976 Thurrock LAB hold +11.0% -10.3% -7.8% … +7.1% 54.1%
+04/11/1976 Newcastle upon Tyne LAB hold +3.2% -24.2% +17.3% … +3.7% 41.0%
+04/11/1976 Walsall North CON gain from ENP +17.3% -27.9% -10.2% … +20.8% 51.5%
+04/11/1976 Workington CON gain from LAB +15.9% -10.4% -5.5% … … 74.2%
+02/12/1976 Cambridge CON hold +9.8% -10.0% -2.8% … +3.0% 49.2%
+24/02/1977 City of London and Westminster CON hold +7.4% -11.2% -5.1% … +8.9% 39.6%
+31/03/1977 Birmingham, Strechford CON gain from LAB +15.6% -19.6% -6.6% … +10.6% 58.8%
+28/04/1977 Ashfield CON gain from LAB +20.8% -20.9% -4.7% … +4.8% 59.7%
+28/04/1977 Grimsby LAB hold +13.8% -0.2% -13.9% … +0.3% 70.2%
+07/07/1977 Saffron Walden CON hold +12.0% -11.4% -5.1% … +4.5% 64.8%
+18/08/1977 Birmingham, Ladywood LAB hold +6.3% -11.4% -8.5% … +13.6% 42.6%
+24/11/1977 Bournemouth East CON hold +11.7% -5.7% -11.8% … +5.8% 42.6%
+02/03/1978 Redbridge, Ilford North CON gain from LAB +9.4% -4.5% -11.6% … +6.7% 69.1%
+13/04/1978 Glasgow, Garscadden LAB hold +5.6% -5.5% -5.0% +1.7% +3.2% 69.1%
+20/04/1978 Lambeth Central LAB hold +8.2% -10.7% -7.2% … +9.7% 44.5%
+27/04/1978 Epsom and Ewell CON hold +9.5% -2.8% -13.8% … +7.1% 54.9%
+27/04/1978 Wycombe CON hold +13.7% -2.3% -12.0% … +0.6% 59.0%
+31/05/1978 Hamilton LAB hold +3.5% +3.5% -1.4% -5.6% … 72.1%
+13/07/1978 Manchester, Moss Side LAB hold +6.3% -0.7% -8.4% … +2.8% 51.6%
+13/07/1978 Penistone LAB hold +8.9% -8.7% -0.2% … … 59.8%
+26/10/1978 Pontefract and Castleford LAB hold +11.1% -4.6% -5.4% … -1.1% 48.9%
+26/10/1978 Berwick and East Lothian LAB hold +2.6% +4.1% -2.3% -4.4% … 71.2%
+01/03/1979 Clitheroe CON hold +17.0% -2.8% -14.2% … … 62.8%
+01/03/1979 Knutsford CON hold +16.1% -7.0% -10.6% … +1.5% 57.2%
+29/03/1979 Liverpool, Edge Hill Lib gain from LAB -11.4% -28.1% +36.8% … +2.7% 57.2%
+GENERAL ELECTION 1979
+27/09/1979 Manchester Central LAB hold -10.1% -0.1% +8.9% … +1.3% 33.6%
+13/12/1979 Hertfordshire SW CON hold -8.8% +0.0% +7.4% … +1.4% 48.3%
+13/03/1980 Southend East CON hold -19.3% +6.5% +12.0% … +0.8% 62.5%
+26/06/1980 Glasgow Central LAB hold -7.6% -11.7% … +15.2% +4.1% 42.8%
+16/07/1981 Warrington LAB hold -21.7% -13.2% +33.3% … +1.6% 67.0%
+22/10/1981 Croydon NW Lib gain from CON -18.9% -14.1% +29.5% … +3.5% 62.8%
+26/11/1981 Crosby SDP gain from CON -17.2% -15.9% +33.8% … -0.7% 69.3%
+25/03/1982 Glasgow, Hillhead SDP gain from CON -14.5% -8.5% +19.0% +1.2% +2.8% 76.4%
+27/05/1982 Beaconsfield CON hold +0.1% -9.7% +9.7% … -0.1% 53.9%
+03/06/1982 Merton, Mitcham and Morden CON gain from LAB -0.5% -20.8% +20.5% … +0.8% 48.5%
+24/06/1982 Coatbridge and Airdrie LAB hold -1.3% -5.8% +8.2% -1.1% … 56.3%
+16/09/1982 Gower LAB hold -8.4% -9.7% +16.0% +1.5% +0.6% 65.4%
+28/10/1982 Southwark, Peckham LAB hold -15.7% -9.5% +25.2% … +0.0% 38.0%
+28/10/1982 Birmingham, Northfield LAB gain from CON -9.8% -8.8% +18.0% … +0.6% 55.0%
+02/12/1982 Glasgow, Queens's Park LAB hold -12.0% -8.4% +9.4% +10.3% +0.7% 47.0%
+24/02/1983 Southwark, Bermondsey Lib gain from Ind LAB -19.4% -37.5% +50.9% … +6.0% 57.7%
+24/03/1983 Darlington LAB hold -8.5% -6.0% +14.3% … +0.2% 80.0%
+GENERAL ELECTION 1983
+28/07/1983 Penrith and The Border CON hold -12.8% -5.9% +16.7% … +2.0% 55.7%
+01/03/1984 Chesterfield LAB hold -17.2% -1.6% +15.2% … +3.6% 76.9%
+03/05/1984 Stafford CON hold -10.8% +3.7% +7.1% … +0.0% 65.6%
+03/05/1984 Surrey SW CON hold -10.4% -1.5% +11.3% … +0.6% 61.7%
+03/05/1984 Cynon Valley LAB hold -6.8% +2.8% -0.7% +1.8% +2.9% 65.7%
+14/06/1984 Portsmouth South SDP gain from CON -15.7% +3.9% +12.2% … -0.4% 54.5%
+13/12/1984 Enfield, Southgate CON hold -8.5% -5.9% +12.2% … +2.2% 50.6%
+04/07/1985 Brecon and Radnor Lib gain from CON -20.5% +9.4% +11.4% -0.6% +0.3% 79.4%
+05/12/1985 Tyne Bridge LAB hold -14.1% +1.3% +11.4% … +1.4% 38.1%
+10/04/1986 Fulham LAB gain from CON -11.3% +10.4% +0.5% … +0.4% 70.8%
+08/05/1986 Derbyshire West CON hold -16.4% +2.7% +12.4% … +1.3% 71.9%
+08/05/1986 Ryedale Lib gain from CON -17.9% -1.9% +19.8% … … 67.3%
+17/07/1986 Newcastle-under-Lyme LAB hold -17.4% -1.2% +17.2% … +1.4% 62.2%
+13/11/1986 Knowsley North LAB hold -13.8% -8.2% +19.8% … +2.2% 57.3%
+26/02/1987 Greenwich SDP gain from LAB -23.6% -4.5% +27.9% … +0.2% 68.2%
+12/03/1987 Truro Lib hold -6.5% +2.5% +3.1% … +0.9% 70.3%
+GENERAL ELECTION 1987 
+14/07/1988 Kensington CON hold -5.9% +4.9% -6.4% … +7.4% 51.6%
+10/11/1988 Glasgow, Govan SNP gain from LAB -4.6% -27.9% -8.2% +38.4% +2.3% 60.2%
+15/12/1988 Epping Forest CON hold -21.4% +0.3% +6.6% … +14.5% 49.1%
+23/02/1989 Richmond (Yorks) CON hold -24.0% -6.9% -5.0% … +35.9% 64.4%
+23/02/1989 Pontypridd LAB hold -6.0% -3.0% -15.0% +20.0% +3.9% 62.2%
+04/05/1989 Vale of Glamorgan LAB gain from CON -10.5% +14.2% -12.5% +1.7% +7.1% 70.7%
+15/06/1989 Glasgow Central LAB hold -5.4% -9.9% -9.0% +20.2% +4.1% 52.8%
+15/06/1989 Vauxhall LAB hold -10.2% +2.6% -0.7% … +8.3% 44.4%
+22/03/1990 Mid Staffordshire LAB gain from CON -18.3% +24.4% -12.0% … +6.0% 77.5%
+24/05/1990 Bootle LAB hold -11.0% +8.5% -4.0% … +6.5% 50.6%
+27/09/1990 Knowsley South LAB hold -6.4% +4.3% -5.4% … +7.5% 33.4%
+18/10/1990 Eastbourne LD gain from CON -19.0% -3.8% +21.1% … +1.7% 60.7%
+08/11/1990 Bootle LAB hold -10.9% +11.5% -5.1% … +4.5% 39.7%
+08/11/1990 Bradford North LAB hold -22.7% +8.9% +7.6% … +6.2% 53.4%
+29/11/1990 Paisley North LAB hold -1.0% -11.5% -7.5% +16.5% +3.5% 53.7%
+29/11/1990 Paisley South LAB hold -1.3% -10.1% -5.3% +13.5% +3.2% 55.0%
+07/03/1991 Ribble Valley LD gain from CON -22.4% -8.3% +27.1% … +3.6% 71.2%
+04/04/1991 Neath LAB hold -7.5% -11.6% -8.3% +17.0% +10.4% 63.7%
+16/05/1991 Monmouth LAB gain from CON -13.5% +11.6% +0.8% -0.2% +1.3% 75.8%
+04/07/1991 Liverpool Walton LAB hold -11.5% -11.3% +14.8% … +8.0% 56.7%
+07/11/1991 Hemsworth LAB hold. -6.7% -0.7% +4.3% … +3.1% 42.6%
+07/11/1991 Kincardine and Deeside LD gain from CON -10.1% -8.2% +12.7% +4.7% +0.8% 64.6%
+07/11/1991 Langbaurgh LAB gain from CON -2.6% +4.5% -3.8% … +1.9% 65.3%
+GENERAL ELECTION 1992
+06/05/1993 Newbury LD gain from CON -29.0% -4.0% +27.8% … +5.2% 71.3%
+29/07/1993 Christchurch LD gain from CON -32.2% -9.4% +38.6% … +3.0% 74.2%
+05/05/1994 Rotherham LAB hold -13.9% -8.3% +17.4% … +4.8% 43.7%
+09/06/1994 Barking LAB hold -23.5% +20.5% -2.5% … +5.5% 38.3%
+09/06/1994 Eastleigh LD gain from CON -26.5% +6.8% +16.3% … +3.4% 58.7%
+09/06/1994 Newham North East LAB hold -16.0% +16.6% -7.0% … +6.3% 34.8%
+09/06/1994 Bradford South LAB hold -20.6% +7.7% +10.2% … +2.7% 44.2%
+09/06/1994 Dagenham LAB hold -26.4% +19.7% -3.1% … +9.7% 37.0%
+30/06/1994 Monklands East LAB hold -13.7% -11.5% -2.0% +26.9% +0.4% 70.0%
+15/12/1994 Dudley West LAB gain from CON -30.2% +28.1% -2.8% … +5.0% 47.0%
+16/02/1995 Islwyn LAB hold -10.9% -5.2% +4.9% +8.8% +2.3% 45.1%
+25/05/1995 Perth and Kinross SNP gain from CON -18.7% +10.5% +0.4% +4.4% +3.4% 62.1%
+27/07/1995 Littleborough & Saddleworth LD gain from CON -20.7% +13.9% +2.7% … +4.1% 64.4%
+01/02/1996 Hemsworth LAB hold -9.8% +1.1% -3.7% … +12.4% 39.5%
+11/04/1996 South East Staffordshire LAB gain from CON -22.2% +22.0% -4.9% … +5.1% 59.6%
+12/12/1996 Barnsley East LAB hold -6.9% -0.7% -0.3% … +7.9% 33.6%
+27/02/1997 Wirral South LAB gain from CON -16.5% +18.0% -3.0% … +1.5% 73.0% 
+GENERAL ELECTION 1997
+31/07/1997 Uxbridge CON hold +7.6% -2.5% -5.3% … +0.2% 55.5%
+06/11/1997 Paisley South LAB hold -1.7% -13.4% +1.6% +9.1% +4.4% 43.1%
+20/11/1997 Beckenham CON hold -1.2% +4.0% +0.2% … -3.0% 43.6%
+20/11/1997 Winchester4 LD hold -13.6% -8.8% +26.0% … -3.6% 68.7%
+10/06/1999 Leeds Central LAB hold -1.4% -21.4% +19.6% … +3.2% 19.6%
+22/07/1999 Eddisbury CON hold +2.3% +0.0% +0.6% … -2.9% 51.4%
+23/09/1999 Hamilton South LAB hold -1.4% -28.7% -1.9% +16.4% +15.6% 41.3%
+23/09/1999 Wigan LAB hold +1.1% -9.0% +3.3% … +4.6% 25.0%
+25/11/1999 Kensington and Chelsea CON hold +2.8% -5.9% -5.9% … +9.0% 29.7%
+03/02/2000 Ceredigion PC hold +1.6% -9.9% +6.5% +1.1% +0.7% 45.6%
+04/05/2000 Romsey LD gain from CON -4.0% -14.8% +21.1% … -2.3% 55.5%
+22/06/2000 Tottenham LAB hold +0.3% -15.8% +8.3% … +7.2% 25.4%
+23/11/2000 Glasgow, Anniesland LAB hold -0.6% -9.7% +0.8% +3.7% +5.8% 38.4%
+23/11/2000 Preston LAB hold +3.1% -15.1% +1.5% … +10.5% 29.6%
+21/12/2000 Falkirk West LAB hold -3.8% -15.8% -2.0% +16.5% +5.1% 36.2% 
+GENERAL ELECTION 2001
+22/11/2001 Ipswich LAB hold -2.1% -8.0% +7.2% … +2.9% 40.2%
+14/02/2002 Ogmore LAB hold -3.7% -10.1% -4.0% +6.8% +11.0% 35.2%
+18/09/2003 Brent East LD gain from LAB -2.1% -29.4% +28.6% … +2.9% 36.2%
+15/07/2004 Birmingham Hodge Hill LAB hold -2.6% -27.4% +26.1% … +3.9% 37.9%
+15/07/2004 Leicester South LD gain from LAB -3.3% -25.2% +17.7% … +10.8% 40.6%
+30/09/2004 Hartlepool LAB hold -11.1% -18.5% +19.2% … +10.4% 45.8%
+GENERAL ELECTION 2005
+14/07/2005 Cheadle LD hold +2.0% -4.2% +3.3% … -1.1% 55.2%
+29/09/2005 Livingston LAB hold -3.4% -9.3% -0.6% +11.1% +2.2% 38.6%
+09/02/2006 Dunfermline & W Fife LD gain from LAB -2.5% -16.8% +15.7% +2.1% +1.6% 48.7%
+29/06/2006 Blaenau Gwent Ind hold +1.4% +4.7% +1.2% +4.1% -11.4% 51.7%
+29/06/2006 Bromley & Chislehurst CON hold -11.1% -15.6% +17.5% … +9.2% 40.5%
+19/07/2007 Ealing, Southall LAB hold +0.9% -7.3% +3.2% … +3.2% 42.9%
+19/07/2007 Sedgefield LAB hold +0.2% -14.1% +8.0% … +5.9% 41.5%
+22/05/2008 Crewe & Nantwich CON gain from LAB +16.9% -18.3% -4.0% … +5.4% 57.7%
+26/06/2008 Henley CON hold +3.5% -11.7% +1.8% … +6.4% 50.3%
+10/07/2008 Haltemprice & Howden6 CON hold +24.1% … … … +25.4% 34.1%
+24/07/2008 Glasgow East SNP gain from LAB -0.6% -19.0% -8.4% +26.1% +1.9% 42.2%
+06/11/2008 Glenrothes LAB hold -3.3% +3.2% -10.0% +13.1% -3.0% 52.3%
+23/07/2009 Norwich North CON gain from LAB +6.3% -26.7% -2.2% … +22.6% 45.8%
+GENERAL ELECTION 2010
+13/01/2011 Oldham East and Saddleworth LAB hold -13.6% +10.3% +0.3% … +3.0% 48.0%
+03/02/2011 Barnsley Central LAB hold -9.0% +13.5% -13.1% … +8.6% 37.0%
+05/05/2011 Leicester South LAB hold -6.2% +12.3% -4.4% … -1.7% 43.9%
+30/06/2011 Inverclyde LAB hold -2.1% -2.2% -11.1% +15.5% -0.1% 45.4%
+16/12/2011 Feltham and Heston LAB hold -6.3% +10.8% -7.9% … +3.5% 28.7%
+29/03/2012 Bradford West Respect gain from LAB -22.8% -20.4% -7.1% … +50.2% 50.8%
+15/11/2012 Cardiff South and Penarth LAB hold -8.4% +8.4% -11.4% +5.4% +6.1% …
+15/11/2012 Corby LAB gain from CON -15.7% +9.6% -9.5% … +15.4% 44.8%
+15/11/2012 Manchester Central LAB hold -7.3% +16.4% -17.2% … +8.0% 18.2%
+24/11/2012 Croydon North LAB hold -7.3% +8.7% -10.5% … +9.1% 47.9%
+29/11/2012 Middlesborough LAB hold -12.5% +14.6% -10.0% … +7.9% 25.9%
+29/11/2012 Rotherham LAB hold -11.3% +1.8% -13.9% … +23.4% 33.8%
+28/02/2013 Eastleigh LD hold -18.5% -1.8% -20.4% … +20.3% 52.7%
+02/05/2013 South Shields LAB hold -10.0% -1.5% -12.8% … +24.3% 57.7%
+13/02/2014 Wythenshawe & Sale East LAB hold -11.0% +11.2% -17.4% … +16.9% 28.2%
+05/06/2014 Newark CON hold -8.9% -4.6% -17.4% … +30.9% 52.7%
+09/10/2014 Clacton UKIP gain from CON -28.4% -13.8% -11.6% … +53.8% 51.1%
+09/10/2014 Heywood and Middleton LAB hold -14.9% +0.8% -17.6% … +31.7% 36.0%
+20/11/2014 Rochester and Strood UKIP gain from CON -14.4% -11.7% -15.4% … +41.5% 50.6%
+GENERAL ELECTION 2015
+03/12/2015 Oldham West and Royton Lab hold -9.6% +7.3% +0.0% … +2.3% 40.1%
+05/05/2016 Sheffield Brightside and Hillsborough Lab hold -5.4% +5.8% +1.6% … -2.0% 33.0%
+05/05/2016 Ogmore Lab hold -3.3% -0.8% +0.0% +5.7% -1.6% 42.4%
+16/06/2016 Tooting Lab hold -5.8% +8.7% -1.4% … -1.5% 42.8%
+20/10/2016 Bateley and Spen Lab hold … +42.6% … … -42.6% 25.6%
+20/10/2016 Witney Con hold -12.3% -1.4% +23.8% … -3.7% 77.0%
+01/12/2016 Richmond Park8 LD gain from CON -13.1% -8.7% +30.4% … -8.7% 53.4%
+08/12/2016 Sleaford and North Hykeham Con hold -2.7% -7.0% +5.3% … +4.4% 37.0%
+23/02/2017 Copeland Con gain from LAB +8.5% -4.9% +3.8% … -7.3% 51.3%
+23/02/2017 Stoke-on-Trent Central Lab hold +1.8% -2.2% +5.7% … -5.2% 38.1%
+GENERAL ELECTION 2017
+14/06/2018 Lewisham East Lab hold -8.6% -17.7% +20.2% … +6.2% 33.2%
+04/04/2019 Newport West Lab hold -12.7% -8.0% +2.4% +2.6% +15.9% 37.0%
+06/06/2019 Peterborough Lab hold -25.5% -17.2% +8.9% … +33.7% 48.3%
+01/08/2019 Brecon and Radnor LD gain from CON -9.6% -12.5% +14.3% … +10.9% 59.6%
+GENERAL ELECTION 2019
+06/05/2021 Hartlepool Con gain from LAB 23.0% -9.0% -3.0% … 0.0% 42.3%
+13/05/2021 Airdrie and Shotts SNP hold -4.7% 6.4% -2.6% 1.3% -6.3% 34.3%
+17/06/2021 Chesham and Amersham LD gain from CON -19.9% -11.2% 30.4% … -3.2% 52.1%
+01/07/2021 Batley and Spen Lab hold -1.6% -7.4% -1.3% … 9.9% 47.5%
+02/12/2021 Old Bexley and Sidcup Con hold -13.1% 7.4% -5.3% … +11.0% 33.5%
+16/12/2021 North Shropshire LD gain from CON -31.1% -12.4% 37.2% … +6.2% 46.2%
+03/02/2022 Southend West Con hold 26.9% … … … +12.7% 22.4%
+03/03/2022 Birmingham, Erdington Lab hold -3.8% 5.2% -2.7% … +1.3% 26.9%
+23/06/2022 Wakefield Lab gain from CON -17.3% 8.1% -2.1% … +11.2% 39.5%
+23/06/2022 Tiverton and Honiton LD gain from CON -21.7% -15.9% 38.1% … -0.5% 52.2%
+01/12/2022 City of Chester Lab hold -16.1% 11.2% 1.5% … 3.5% 41.1%
+15/12/2022 Stretford and Urmston Lab hold -11.7% 9.3% -2.4% … 4.7% 25.7%
+09/02/2023 West Lancashire Lab hold -10.9% 10.2% -0.8% … 0.7% 31.3%
+20/07/2023 Uxbridge and South Ruislip Con hold -7.4% 6.0% 1.7% … 6.1% 46.1%
+20/07/2023 Selby and Ainsty Lab gain from CON -26.0% 21.4% -5.3% … 9.8% 44.7%
+20/07/2023 Somerton and Frome LD gain from CON -29.6% -10.3% 28.4% … 11.4% 44.1%
